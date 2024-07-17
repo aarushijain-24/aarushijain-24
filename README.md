@@ -8,22 +8,17 @@
   
 - 📫 How to reach me **aarushimzn@gmail.com**.
   
-- ⚡ Fun fact I love to draw and read.
+- ⚡ Fun fact I'm an avid reader and enjoy exploring different genres, especially mystery thriller.
 
-</br>
-
-<h2>Connect with me:</h2>
-<br/> 
+<h2>Connect with me</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/aarushijain0024/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/aarushijain0024/" height="30" width="40" /></a>
 <a href="https://www.kaggle.com/aarushijain24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle.com/aarushijain24" height="30" width="40" /></a>
 <a href="https://instagram.com/aarushijain.24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/aarushijain.24)" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/aarushijain24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/u/aarushijain24" height="30" width="40" /></a>
 </p>  
-<br/> 
 
 <h2>Tech Stack</h2>
-
 <img width="30%" height="20%" align="right" alt="Github" src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif"  width="100" height="200" frameBorder="0" class="giphy-embed"/>
 
 <div>
@@ -81,7 +76,7 @@
 </div>
 
 
-<h2>GitHub Stats: </h2>
+<h2>GitHub Stats</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=aarushijain-24&show_icons=true&theme=tokyonight)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=aarushijain-24&theme=dark&hide_border=false)<br/>
