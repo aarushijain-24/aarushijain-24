@@ -79,7 +79,7 @@
 <h2>GitHub Stats</h2>
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="https://github-readme-stats.vercel.app/api?username=aarushijain-24&show_icons=true&theme=tokyonight"  style="width: 50%;"></br>
+  <img src="https://github-readme-stats.vercel.app/api?username=aarushijain-24&show_icons=true&theme=dark&hide_border=false"  style="width: 50%;"></br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aarushijain-24&theme=dark&hide_border=false"  style="width: 50%;"></br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aarushijain-24&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"  style="width: 50%;"></br>
 </div>
