@@ -16,6 +16,7 @@
 <a href="https://www.kaggle.com/aarushijain24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle.com/aarushijain24" height="30" width="40" /></a>
 <a href="https://instagram.com/aarushijain.24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram.com/aarushijain.24)" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/aarushijain24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode.com/u/aarushijain24" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/aarushimzn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank.com/profile/aarushimzn" height="30" width="40" /></a>
 </p>  
 
 <h2>Tech Stack</h2>
